@@ -41,3 +41,4 @@ function rando() {
 //         console.log('huzzah, I\'m done!');
 //     });    
 // }
+//Generate Random number

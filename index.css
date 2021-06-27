@@ -53,7 +53,7 @@ button:hover{
 h3{
   border:1px solid black;
   margin: 0px 20%;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.726);
   color: white;
   height: 50px;
   display: flex;
@@ -61,4 +61,7 @@ h3{
   align-items: center;
   border-radius: 10px;
 
+}
+.h3{
+  margin-top: 10px;
 }
