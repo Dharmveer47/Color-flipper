@@ -20,7 +20,7 @@ setTimeout(() => {
 
 });
 function relode(){
-    window.location.reload();
+  window.location = window.location
 }
 function rando() {
   document.body.style.backgroundColor = "rgb(" + a + "," + b + "," + c + ")";
